@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Omniverse-Web3-Labs/crosschain-sdk-for-evm.git"
+    "url": "git+https://github.com/Omniverse-Web3-Labs/cross-chain-sdk-for-evm.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Omniverse-Web3-Labs/crosschain-sdk-for-evm/issues"
+    "url": "https://github.com/Omniverse-Web3-Labs/cross-chain-sdk-for-evm/issues"
   },
-  "homepage": "https://github.com/Omniverse-Web3-Labs/crosschain-sdk-for-evm#readme",
+  "homepage": "https://github.com/Omniverse-Web3-Labs/cross-chain-sdk-for-evm#readme",
   "dependencies": {
     "@omniverselabs/contracts": "^0.2.4",
     "@openzeppelin/contracts": "^4.7.3",
